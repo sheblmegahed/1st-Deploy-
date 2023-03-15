@@ -149,7 +149,7 @@ body{
 /* end header */
 /* start landing section */
 .landing{
-    background-image:url(file:///D:/Programming/SheblMegahedCodes-/CSS%20&%20HTML/After-Course/ElZero-Template/1/images/mountain.jpg);
+    background-image:url(https://elzerowebschool.github.io/HTML_And_CSS_Template_One/images/landing.jpg);
     height:calc(100vh - 64px); /* To avoid the scroll we added the 64px of the header */
     background-size:cover;
     position:relative;
